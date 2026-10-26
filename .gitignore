@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.xls
+*.bar
+*.xpc
+*.txt
+*.json
+exports/
+data/
+*.log
+config.local.*
+cap_explorer_errors.log
+__pycache__/
